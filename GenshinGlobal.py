@@ -4,10 +4,10 @@ import json
 import requests
 import collections
 if __name__ == "__main__":
-    with open('READMECN.md','a+') as readme:
+    with open('READMEGLOBAL.md','a+') as readme:
         readme.seek(0)
         sys.stdout = readme
-        stringContent=str(requests.get('https://sdk-static.mihoyo.com/hk4e_cn/mdk/launcher/api/resource?key=eYd89JmJ&launcher_id=18').content,'utf-8')
+        stringContent=str(requests.get('https://sdk-os-static.mihoyo.com/hk4e_global/mdk/launcher/api/resource?channel_id=1&key=gcStgarh&launcher_id=10&sub_channel_id=0').content,'utf-8')
         jsonFile=json.loads(readme.read().strip().strip('```'),object_pairs_hook=collections.OrderedDict)
         changed = False
         pre_download_game=None
