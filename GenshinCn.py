@@ -4,7 +4,7 @@ import json
 import requests
 import collections
 if __name__ == "__main__":
-    with open('READMECN.md','a+') as readme:
+    with open('GiCn.md','a+') as readme:
         readme.seek(0)
         sys.stdout = readme
         stringContent=str(requests.get('https://sdk-static.mihoyo.com/hk4e_cn/mdk/launcher/api/resource?key=eYd89JmJ&launcher_id=18').content,'utf-8')
