@@ -4,7 +4,7 @@ import json
 import requests
 import collections
 if __name__ == "__main__":
-    with open('StarRail.md','a+') as readme:
+    with open('README.md','a+') as readme:
         readme.seek(0)
         sys.stdout = readme
         stringContent=str(requests.get('https://hkrpg-launcher-static.hoyoverse.com/hkrpg_global/mdk/launcher/api/resource?channel_id=1&key=btiiBrnBdZpK1Zy5&launcher_id=32&sub_channel_id=0').content,'utf-8')
