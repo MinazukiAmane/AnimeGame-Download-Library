@@ -3,69 +3,69 @@
     "pre_download_game":null,
     "latest":{
         "name":"",
-        "version":"3.6.0",
-        "path":"https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230331200258_xR748JQdRJ19pQH0/GenshinImpact_3.6.0.zip",
-        "size":"102273657078",
-        "md5":"2686795437c83749e975333216d99edf",
+        "version":"3.7.0",
+        "path":"",
+        "size":"104378191054",
+        "md5":"f4c838b84ffa21a62f8e3ff5c2af7c7b",
         "entry":"GenshinImpact.exe",
         "voice_packs":[
             {
                 "language":"zh-cn",
                 "name":"",
-                "path":"https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230331200258_xR748JQdRJ19pQH0/Audio_Chinese_3.6.0.zip",
-                "size":"19273414084",
-                "md5":"69a082ebb35929d1392318c2c4ec045c",
-                "package_size":"9631464162"
+                "path":"https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230513200104_2odHBzbUAP5IOIvE/Audio_Chinese_3.7.0.zip",
+                "size":"20153882380",
+                "md5":"2b0fd39275a2974fc85ee1e9735b42b7",
+                "package_size":"10071698310"
             },
             {
                 "language":"en-us",
                 "name":"",
-                "path":"https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230331200258_xR748JQdRJ19pQH0/Audio_English(US)_3.6.0.zip",
-                "size":"22086617662",
-                "md5":"91efd98ed1eb3b39ab93588789d402da",
-                "package_size":"11038065951"
+                "path":"https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230513200104_2odHBzbUAP5IOIvE/Audio_English(US)_3.7.0.zip",
+                "size":"23181834322",
+                "md5":"43b360b3f5c71feb951a204f81a1d232",
+                "package_size":"11585674281"
             },
             {
                 "language":"ja-jp",
                 "name":"",
-                "path":"https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230331200258_xR748JQdRJ19pQH0/Audio_Japanese_3.6.0.zip",
-                "size":"24835396732",
-                "md5":"565cb3fddbe213c49308749b44e9a562",
-                "package_size":"12412455486"
+                "path":"https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230513200104_2odHBzbUAP5IOIvE/Audio_Japanese_3.7.0.zip",
+                "size":"26102412084",
+                "md5":"516ad9333520473c6ff3ac7fe6d1a5e9",
+                "package_size":"13045963162"
             },
             {
                 "language":"ko-kr",
                 "name":"",
-                "path":"https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230331200258_xR748JQdRJ19pQH0/Audio_Korean_3.6.0.zip",
-                "size":"18886867026",
-                "md5":"7fc1859050f138fb13fe4eb6e2fb8573",
-                "package_size":"9438190633"
+                "path":"https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230513200104_2odHBzbUAP5IOIvE/Audio_Korean_3.7.0.zip",
+                "size":"19724385650",
+                "md5":"07251fd076e60111716c4ca970965a87",
+                "package_size":"9856949945"
             }
         ],
-        "decompressed_path":"https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230331200258_xR748JQdRJ19pQH0/ScatteredFiles",
+        "decompressed_path":"https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230513200104_2odHBzbUAP5IOIvE/ScatteredFiles",
         "segments":[
             {
-                "path":"https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230331200258_xR748JQdRJ19pQH0/GenshinImpact_3.6.0.zip.001",
-                "md5":"dfb4a52b7c1df52b575399c88387a834"
+                "path":"https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230513200104_2odHBzbUAP5IOIvE/GenshinImpact_3.7.0.zip.001",
+                "md5":"bd193afb5cf2d16e1e048bbdf07dde66"
             },
             {
-                "path":"https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230331200258_xR748JQdRJ19pQH0/GenshinImpact_3.6.0.zip.002",
-                "md5":"732de764330a7e91caf797ea42d033eb"
+                "path":"https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230513200104_2odHBzbUAP5IOIvE/GenshinImpact_3.7.0.zip.002",
+                "md5":"63353ee59d60619313fc9032fa87d697"
             },
             {
-                "path":"https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230331200258_xR748JQdRJ19pQH0/GenshinImpact_3.6.0.zip.003",
-                "md5":"996ba698498e61f5c17e3930a34611a1"
+                "path":"https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230513200104_2odHBzbUAP5IOIvE/GenshinImpact_3.7.0.zip.003",
+                "md5":"989d7df8b11fe781322eae27260c86f3"
             },
             {
-                "path":"https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230331200258_xR748JQdRJ19pQH0/GenshinImpact_3.6.0.zip.004",
-                "md5":"6af5899787aa820f55b03a2778a99d3e"
+                "path":"https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230513200104_2odHBzbUAP5IOIvE/GenshinImpact_3.7.0.zip.004",
+                "md5":"91fc90cb6f09712619f9943a5b1603cb"
             },
             {
-                "path":"https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230331200258_xR748JQdRJ19pQH0/GenshinImpact_3.6.0.zip.005",
-                "md5":"4270ab2beb4fbeec4b97018c3c4dc66a"
+                "path":"https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230513200104_2odHBzbUAP5IOIvE/GenshinImpact_3.7.0.zip.005",
+                "md5":"7350eb36815994a0fe93ea94544198bf"
             }
         ],
-        "package_size":"51131585659"
+        "package_size":"52183852647"
     },
     "deprecated_packages":[
         {
@@ -199,6 +199,72 @@
                 }
             ],
             "package_size":"47953309860"
+        },
+        {
+            "name":"",
+            "version":"3.6.0",
+            "path":"https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230331200258_xR748JQdRJ19pQH0/GenshinImpact_3.6.0.zip",
+            "size":"102273657078",
+            "md5":"2686795437c83749e975333216d99edf",
+            "entry":"GenshinImpact.exe",
+            "voice_packs":[
+                {
+                    "language":"zh-cn",
+                    "name":"",
+                    "path":"https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230331200258_xR748JQdRJ19pQH0/Audio_Chinese_3.6.0.zip",
+                    "size":"19273414084",
+                    "md5":"69a082ebb35929d1392318c2c4ec045c",
+                    "package_size":"9631464162"
+                },
+                {
+                    "language":"en-us",
+                    "name":"",
+                    "path":"https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230331200258_xR748JQdRJ19pQH0/Audio_English(US)_3.6.0.zip",
+                    "size":"22086617662",
+                    "md5":"91efd98ed1eb3b39ab93588789d402da",
+                    "package_size":"11038065951"
+                },
+                {
+                    "language":"ja-jp",
+                    "name":"",
+                    "path":"https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230331200258_xR748JQdRJ19pQH0/Audio_Japanese_3.6.0.zip",
+                    "size":"24835396732",
+                    "md5":"565cb3fddbe213c49308749b44e9a562",
+                    "package_size":"12412455486"
+                },
+                {
+                    "language":"ko-kr",
+                    "name":"",
+                    "path":"https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230331200258_xR748JQdRJ19pQH0/Audio_Korean_3.6.0.zip",
+                    "size":"18886867026",
+                    "md5":"7fc1859050f138fb13fe4eb6e2fb8573",
+                    "package_size":"9438190633"
+                }
+            ],
+            "decompressed_path":"https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230331200258_xR748JQdRJ19pQH0/ScatteredFiles",
+            "segments":[
+                {
+                    "path":"https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230331200258_xR748JQdRJ19pQH0/GenshinImpact_3.6.0.zip.001",
+                    "md5":"dfb4a52b7c1df52b575399c88387a834"
+                },
+                {
+                    "path":"https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230331200258_xR748JQdRJ19pQH0/GenshinImpact_3.6.0.zip.002",
+                    "md5":"732de764330a7e91caf797ea42d033eb"
+                },
+                {
+                    "path":"https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230331200258_xR748JQdRJ19pQH0/GenshinImpact_3.6.0.zip.003",
+                    "md5":"996ba698498e61f5c17e3930a34611a1"
+                },
+                {
+                    "path":"https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230331200258_xR748JQdRJ19pQH0/GenshinImpact_3.6.0.zip.004",
+                    "md5":"6af5899787aa820f55b03a2778a99d3e"
+                },
+                {
+                    "path":"https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230331200258_xR748JQdRJ19pQH0/GenshinImpact_3.6.0.zip.005",
+                    "md5":"4270ab2beb4fbeec4b97018c3c4dc66a"
+                }
+            ],
+            "package_size":"51131585659"
         }
     ]
 }
