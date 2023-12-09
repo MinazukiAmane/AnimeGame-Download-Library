@@ -7,7 +7,7 @@ if __name__ == "__main__":
     with open('README.md','a+') as readme:
         readme.seek(0)
         sys.stdout = readme
-        stringContent=str(requests.get('https://hkrpg-launcher-static.hoyoverse.com/hkrpg_global/mdk/launcher/api/resource?channel_id=1&key=vplOVX8Vn7cwG8yb&launcher_id=35&sub_channel_id=0').content,'utf-8')
+        stringContent=str(requests.get('https://sg-public-api.serenetia.com/api/hkrpg_global').content,'utf-8')
         jsonFile=json.loads(readme.read().strip().strip('```'),object_pairs_hook=collections.OrderedDict)
         changed = False
         pre_download_game=None
