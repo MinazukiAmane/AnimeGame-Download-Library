@@ -5,36 +5,67 @@
         "game":{
             "latest":{
                 "name":"",
-                "version":"1.4.0",
-                "path":"https://autopatchos.starrails.com/client/download/20230926143436_SlNTPYWin037OJmV/StarRail_1.4.0.zip",
-                "size":"36588954566",
-                "md5":"7624c83a7f42807ee28f87b026cbba7d",
+                "version":"1.5.0",
+                "path":"https://autopatchos.starrails.com/client/download/20231103104955_cqUaz5ynWxXulVjV/PC/StarRail_1.5.0.zip",
+                "size":"40978747226",
+                "md5":"ea0741371124b566ec643ee69b4c835a",
                 "entry":"StarRail.exe",
-                "voice_packs":[],
-                "decompressed_path":"",
+                "voice_packs":[
+                    {
+                        "language":"zh-cn",
+                        "name":"",
+                        "path":"https://autopatchos.starrails.com/client/download/20231103104955_cqUaz5ynWxXulVjV/PC/Chinese.zip",
+                        "size":"6218384890",
+                        "md5":"5b9e8df354d5fce4f9c3d2e06c4f8756",
+                        "package_size":"3103949565"
+                    },
+                    {
+                        "language":"zh-tw",
+                        "name":"",
+                        "path":"https://autopatchos.starrails.com/client/download/20231103104955_cqUaz5ynWxXulVjV/PC/Chinese.zip",
+                        "size":"6218384890",
+                        "md5":"5b9e8df354d5fce4f9c3d2e06c4f8756",
+                        "package_size":"3103949565"
+                    },
+                    {
+                        "language":"en-us",
+                        "name":"",
+                        "path":"https://autopatchos.starrails.com/client/download/20231103104955_cqUaz5ynWxXulVjV/PC/English.zip",
+                        "size":"7348886562",
+                        "md5":"cc57a7ec5e4fd553eea14a598792492b",
+                        "package_size":"3669200401"
+                    },
+                    {
+                        "language":"ja-jp",
+                        "name":"",
+                        "path":"https://autopatchos.starrails.com/client/download/20231103104955_cqUaz5ynWxXulVjV/PC/Japanese.zip",
+                        "size":"7976678006",
+                        "md5":"5a3714636e54682c5b50d45959e53278",
+                        "package_size":"3983096123"
+                    },
+                    {
+                        "language":"ko-kr",
+                        "name":"",
+                        "path":"https://autopatchos.starrails.com/client/download/20231103104955_cqUaz5ynWxXulVjV/PC/Korean.zip",
+                        "size":"6293104748",
+                        "md5":"93cc9b33916bab709dc05490e4601e74",
+                        "package_size":"3141309494"
+                    }
+                ],
+                "decompressed_path":"https://autopatchos.starrails.com/client/download/20231103104955_cqUaz5ynWxXulVjV/PC/unzip",
                 "segments":[],
-                "package_size":"18289234403"
+                "package_size":"20484130733"
             },
             "diffs":[
                 {
-                    "name":"game_1.3.0_1.4.0_hdiff_anBAclTh9gfx7Lu6.zip",
-                    "version":"1.3.0",
-                    "path":"https://autopatchos.starrails.com/client/hkrpg_global/35/game_1.3.0_1.4.0_hdiff_anBAclTh9gfx7Lu6.zip",
-                    "size":"21600915765",
-                    "md5":"1C589A899F78EEFA656402186554A6F0",
+                    "name":"game_1.4.0_1.5.0_hdiff_VY6cEUXfgnhjZPKi.zip",
+                    "version":"1.4.0",
+                    "path":"https://autopatchos.starrails.com/client/hkrpg_global/35/game_1.4.0_1.5.0_hdiff_VY6cEUXfgnhjZPKi.zip",
+                    "size":"18852946272",
+                    "md5":"F1326BB44C951A16566895396C1BD63B",
                     "is_recommended_update":false,
                     "voice_packs":[],
-                    "package_size":"10123591558"
-                },
-                {
-                    "name":"game_1.2.0_1.4.0_hdiff_M6uocCepODd3Ba4F.zip",
-                    "version":"1.2.0",
-                    "path":"https://autopatchos.starrails.com/client/hkrpg_global/35/game_1.2.0_1.4.0_hdiff_M6uocCepODd3Ba4F.zip",
-                    "size":"26656181369",
-                    "md5":"BF840714F42169417D4E2A0C15145A93",
-                    "is_recommended_update":false,
-                    "voice_packs":[],
-                    "package_size":"12545568480"
+                    "package_size":"8744519469"
                 }
             ]
         },
@@ -56,6 +87,18 @@
         "force_update":null,
         "pre_download_game":null,
         "deprecated_packages":[
+            {
+                "name":"game_1.2.0_1.4.0_hdiff_M6uocCepODd3Ba4F.zip",
+                "md5":"BF840714F42169417D4E2A0C15145A93"
+            },
+            {
+                "name":"game_1.3.0_1.4.0_hdiff_anBAclTh9gfx7Lu6.zip",
+                "md5":"1C589A899F78EEFA656402186554A6F0"
+            },
+            {
+                "name":"StarRail_1.4.0.zip",
+                "md5":"7624c83a7f42807ee28f87b026cbba7d"
+            },
             {
                 "name":"game_1.1.0_1.3.0_hdiff_hyR3qHOBuUAblPZV.zip",
                 "md5":"0BD7283F2A263E91D944098A880106DF"
@@ -79,14 +122,6 @@
             {
                 "name":"StarRail_1.2.0.zip",
                 "md5":"704ddb6a18539004e08a03b533474784"
-            },
-            {
-                "name":"game_1.0.5_1.1.0_hdiff_9czqxj0PVA6wltFp.zip",
-                "md5":"EDBC4E431730DC2E3EA5B500D93051DD"
-            },
-            {
-                "name":"StarRail_1.1.0.zip",
-                "md5":"d25f4eaf495c372f6d3eaec8c73382a5"
             }
         ],
         "sdk":null,
@@ -651,6 +686,97 @@
                 {
                     "name":"StarRail_0.90.0.zip",
                     "md5":"6717b1560bac650f0dbde4011df6e967"
+                }
+            ],
+            "sdk":null,
+            "deprecated_files":[]
+        },
+        {
+            "game":{
+                "latest":{
+                    "name":"",
+                    "version":"1.4.0",
+                    "path":"https://autopatchos.starrails.com/client/download/20230926143436_SlNTPYWin037OJmV/StarRail_1.4.0.zip",
+                    "size":"36588954566",
+                    "md5":"7624c83a7f42807ee28f87b026cbba7d",
+                    "entry":"StarRail.exe",
+                    "voice_packs":[],
+                    "decompressed_path":"",
+                    "segments":[],
+                    "package_size":"18289234403"
+                },
+                "diffs":[
+                    {
+                        "name":"game_1.3.0_1.4.0_hdiff_anBAclTh9gfx7Lu6.zip",
+                        "version":"1.3.0",
+                        "path":"https://autopatchos.starrails.com/client/hkrpg_global/35/game_1.3.0_1.4.0_hdiff_anBAclTh9gfx7Lu6.zip",
+                        "size":"21600915765",
+                        "md5":"1C589A899F78EEFA656402186554A6F0",
+                        "is_recommended_update":false,
+                        "voice_packs":[],
+                        "package_size":"10123591558"
+                    },
+                    {
+                        "name":"game_1.2.0_1.4.0_hdiff_M6uocCepODd3Ba4F.zip",
+                        "version":"1.2.0",
+                        "path":"https://autopatchos.starrails.com/client/hkrpg_global/35/game_1.2.0_1.4.0_hdiff_M6uocCepODd3Ba4F.zip",
+                        "size":"26656181369",
+                        "md5":"BF840714F42169417D4E2A0C15145A93",
+                        "is_recommended_update":false,
+                        "voice_packs":[],
+                        "package_size":"12545568480"
+                    }
+                ]
+            },
+            "plugin":{
+                "plugins":[
+                    {
+                        "name":"DXSETUP.zip",
+                        "version":"",
+                        "path":"https://autopatchos.starrails.com/client/DXSETUP.zip",
+                        "size":"100647892",
+                        "md5":"ca2ac3835d7d7da6cb8624fefb177083",
+                        "entry":"",
+                        "package_size":"0"
+                    }
+                ],
+                "version":"1"
+            },
+            "web_url":"https://starrail.hoyoverse.com/launcher",
+            "force_update":null,
+            "pre_download_game":null,
+            "deprecated_packages":[
+                {
+                    "name":"game_1.1.0_1.3.0_hdiff_hyR3qHOBuUAblPZV.zip",
+                    "md5":"0BD7283F2A263E91D944098A880106DF"
+                },
+                {
+                    "name":"game_1.2.0_1.3.0_hdiff_n78UaLKGeNhJMHiQ.zip",
+                    "md5":"3A96C80B61A2DDA1CC547F19CA1F3EB3"
+                },
+                {
+                    "name":"StarRail_1.3.0.zip",
+                    "md5":"d2e44335177ba491289e0a1a49683137"
+                },
+                {
+                    "name":"game_1.0.5_1.2.0_hdiff_R9c5WrVJ6PZqAhQ1.zip",
+                    "md5":"0D3EDB2BDE786D2984E31D42D43DC43A"
+                },
+                {
+                    "name":"game_1.1.0_1.2.0_hdiff_SJqF73LhiQrsv2cU.zip",
+                    "md5":"198D1263E6EDAB53A0117EDBD7A237DC"
+                },
+                {
+                    "name":"StarRail_1.2.0.zip",
+                    "md5":"704ddb6a18539004e08a03b533474784"
+                },
+                {
+                    "name":"game_1.0.5_1.1.0_hdiff_9czqxj0PVA6wltFp.zip",
+                    "md5":"EDBC4E431730DC2E3EA5B500D93051DD"
+                },
+                {
+                    "name":"StarRail_1.1.0.zip",
+                    "md5":"d25f4eaf495c372f6d3eaec8c73382a5"
                 }
             ],
             "sdk":null,
