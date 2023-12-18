@@ -7,7 +7,7 @@ if __name__ == "__main__":
     with open('README.md','a+') as readme:
         readme.seek(0)
         sys.stdout = readme
-        stringContent=str(requests.get('https://sdk-os-static.mihoyo.com/bh3_global/mdk/launcher/api/resource?channel_id=1&key=dpz65xJ3&launcher_id=10&sub_channel_id=1').content,'utf-8')
+        stringContent=str(requests.get('https://sg-public-api.serenetia.com/api/bh3_global').content,'utf-8')
         jsonFile=json.loads(readme.read().strip().strip('```'),object_pairs_hook=collections.OrderedDict)
         changed = False
         pre_download_game=None
