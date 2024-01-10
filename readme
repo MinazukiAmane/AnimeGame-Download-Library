@@ -1,5 +1,3 @@
----
-
 # Anime Game Direct Download Links
 
 This repository contains direct download links for four different anime games. Each game has its own folder with a README listing the available download links.
@@ -35,5 +33,3 @@ This repository is licensed under the [MIT License](./LICENSE), allowing the use
 If this repository hasn't been updated in one month, it's likely that the owner forgot to push updates. You can check the latest status by running each corresponding python script like [Yuanshen Python Script](./Yuanshen/GenshinCn.py). Replace the front part of the URL in each Python file with "sg" or "id" if one of them cannot be accessed.
 
 Please ensure compliance with copyrights and regulations while using the games available in this repository.
-
----
