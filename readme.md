@@ -4,25 +4,25 @@ This repository contains direct download links for four different anime games. E
 
 ## Game List
 
-1. **[First Anime Game Name]**
+1. **[First Anime Game Name](https://honkaiimpact3.hoyoverse.com)**
    - Folder: `/Honkai3rd`
-   - Brief description of the first game, such as genre, release year, or platform.
-   - [README for First Anime Game](./Honkai3rd/README.md) contains direct download links and related information.
+   - First ultimate ACG Action title with next-gen gameplay, 2016, Android, IOS and PC.
+   - [README for First Anime Game](./Honkai3rd/README.md) contains direct download links and related information for PC.
 
-2. **[Second Anime Game Name]**
+2. **[Second Anime Game Name](https://genshin.hoyoverse.com)**
    - Folder: `/Genshin and /Yuanshen`
-   - Brief description of the second game.
-   - [README for Second Anime Game GLB](./Genshin/README.md) and [Second Anime Game CN](./Yuanshen/README.md) contains direct download links and related information.
+   - open-world adventure anime game, 2020, Android, IOS, PC and Console.
+   - [README for Second Anime Game GLB](./Genshin/README.md) and [Second Anime Game CN](./Yuanshen/README.md) contains direct download links and related information for PC.
 
-3. **[Third Anime Game Name]**
+3. **[Third Anime Game Name](https://hsr.hoyoverse.com)**
    - Folder: `/Star Rail and /StarRail CN`
-   - Brief description of the third game.
-   - [README for Third Anime Game GLB](./Star%20Rail/README.md) and [Third Anime Game CN](./StarRail%20CN/README.md) contains direct download links and related information.
+   - space fantasy RPG anime game, 2023, Android, IOS, PC and Console.
+   - [README for Third Anime Game GLB](./Star%20Rail/README.md) and [Third Anime Game CN](./StarRail%20CN/README.md) contains direct download links and related information for PC.
 
-4. **[Fourth Anime Game Name]**
+4. **[Fourth Anime Game Name](https://zenless.hoyoverse.com)**
    - Folder: `/ZZZ`
-   - Brief description of the fourth game.
-   - [README for Fourth Game](./ZZZ/README.md) contains direct download links and related information.
+   - Rogue like anime game, 2024, Android, IOS and PC.
+   - [README for Fourth Game](./ZZZ/README.md) contains direct download links and related information for PC.
 
 ## License
 
