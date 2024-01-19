@@ -3,16 +3,29 @@
     "pre_download_game":null,
     "latest":{
         "name":"",
-        "version":"7.1.0",
-        "path":"https://hk-bigfile-asia-mihayo.akamaized.net/ptpublic/bh3_tw/20231204164327_8tpPZqik6C0x1DO1/BH3_v7.1.0_d4bd6e31f501.7z",
-        "size":"28947197292",
-        "md5":"c63cfa0d5c8a217f2465d2dbcd39516c",
+        "version":"7.2.0",
+        "path":"https://hk-bigfile-asia-mihayo.akamaized.net/ptpublic/bh3_tw/20240115181618_CMHyLguRVNYyS1ly/BH3_v7.2.0_b2a1fd200642.7z",
+        "size":"27772582520",
+        "md5":"c51d84ca2a6ffc50b8d03cf45f06b2f1",
         "entry":"BH3.exe",
         "voice_packs":[],
-        "decompressed_path":"https://hk-bigfile-asia-mihayo.akamaized.net/ptpublic/bh3_tw/20231204164327_8tpPZqik6C0x1DO1/extract",
+        "decompressed_path":"https://hk-bigfile-asia-mihayo.akamaized.net/ptpublic/bh3_tw/20240115181618_CMHyLguRVNYyS1ly/extract",
         "segments":[],
-        "package_size":"14468355766"
+        "package_size":"13881048380"
     },
-    "deprecated_packages":[]
+    "deprecated_packages":[
+        {
+            "name":"",
+            "version":"7.1.0",
+            "path":"https://hk-bigfile-asia-mihayo.akamaized.net/ptpublic/bh3_tw/20231204164327_8tpPZqik6C0x1DO1/BH3_v7.1.0_d4bd6e31f501.7z",
+            "size":"28947197292",
+            "md5":"c63cfa0d5c8a217f2465d2dbcd39516c",
+            "entry":"BH3.exe",
+            "voice_packs":[],
+            "decompressed_path":"https://hk-bigfile-asia-mihayo.akamaized.net/ptpublic/bh3_tw/20231204164327_8tpPZqik6C0x1DO1/extract",
+            "segments":[],
+            "package_size":"14468355766"
+        }
+    ]
 }
 ```
