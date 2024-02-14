@@ -1,4 +1,31 @@
 ```
 {
+    "pre_download_game":null,
+    "latest":{
+        "name":"",
+        "version":"0.13",
+        "path":"https://line1-package.zenlesszonezero.com/download/windows/0.1.0/20220726-071636_c0b0cadc6ddd/ZZZ.zip",
+        "size":"14150532036",
+        "md5":"d1e81da11ca037e482e47e3d9a8118aa",
+        "entry":"Win.exe",
+        "voice_packs":[],
+        "decompressed_path":"",
+        "segments":[],
+        "package_size":"7070023138"
+    },
+    "deprecated_packages":[
+        {
+            "name":"",
+            "version":"",
+            "path":"",
+            "size":"",
+            "md5":"",
+            "entry":"",
+            "voice_packs":[],
+            "decompressed_path":"",
+            "segments":[],
+            "package_size":""
+        }
+    ]
 }
 ```
