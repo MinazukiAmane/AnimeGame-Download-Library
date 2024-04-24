@@ -1,6 +1,20 @@
 ```
 {
-    "pre_download_game":null,
+    "pre_download_game":{
+        "latest":{
+            "name":"",
+            "version":"7.4.0",
+            "path":"https://hk-bigfile-west-mihayo.akamaized.net/ptpublic/bh3_glb/20240418171457_DfrsvsXiiWXoKRh3/BH3_v7.4.0_94a9fe15271d.7z",
+            "size":"35853538346",
+            "md5":"e184527f3a12bccab765279518041ac4",
+            "entry":"BH3.exe",
+            "voice_packs":[],
+            "decompressed_path":"https://hk-bigfile-west-mihayo.akamaized.net/ptpublic/bh3_glb/20240418171457_DfrsvsXiiWXoKRh3/extract",
+            "segments":[],
+            "package_size":"17921526293"
+        },
+        "diffs":[]
+    },
     "latest":{
         "name":"",
         "version":"7.3.0",
