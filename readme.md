@@ -4,10 +4,10 @@ This repository contains direct download links for four different anime games. E
 
 ## Game List
 
-1. **First Anime Game** (No upadate for future, don't have key for other ver only have GLB)
+1. **First Anime Game** 
    - Folder: `/First Anime Game`
    - First ultimate ACG Action title with next-gen gameplay, 2016, Android, IOS and PC.
-   - [README for First Anime Game](./First%20Anime%20Game/GLOBAL.md) contains direct download links and related information for PC.
+   - [README for First Anime Game GLB](./First%20Anime%20Game/GLOBAL.md), [KR](./First%20Anime%20Game/KR.md), [SEA](./First%20Anime%20Game/SEA.md) and [TW](./First%20Anime%20Game/TW.md) contains direct download links and related information for PC.
 
 2. **Second Anime Game**
    - Folder: `/Second Anime Game`
