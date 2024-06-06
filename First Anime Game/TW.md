@@ -1,31 +1,17 @@
 ```
 {
-    "pre_download_game":{
-        "latest":{
-            "name":"",
-            "version":"7.5.0",
-            "path":"https://hk-bigfile-asia-mihayo.akamaized.net/ptpublic/bh3_tw/20240530163856_YwL95CyrWCGVAcsv/BH3_v7.5.0_1eaf178240fa.7z",
-            "size":"36339006474",
-            "md5":"bbd13492dd88b75bd151a0bda0109a2b",
-            "entry":"BH3.exe",
-            "voice_packs":[],
-            "decompressed_path":"https://hk-bigfile-asia-mihayo.akamaized.net/ptpublic/bh3_tw/20240530163856_YwL95CyrWCGVAcsv/extract/",
-            "segments":[],
-            "package_size":"18164260357"
-        },
-        "diffs":[]
-    },
+    "pre_download_game":null,
     "latest":{
         "name":"",
-        "version":"7.4.0",
-        "path":"https://hk-bigfile-asia-mihayo.akamaized.net/ptpublic/bh3_tw/20240418174149_B3GXnykRvQHhY6dK/BH3_v7.4.0_94a9fe15271d.7z",
-        "size":"35129115674",
-        "md5":"c628beb38fcac482a0ed19efffb6032a",
+        "version":"7.5.0",
+        "path":"https://hk-bigfile-asia-mihayo.akamaized.net/ptpublic/bh3_tw/20240530163856_YwL95CyrWCGVAcsv/BH3_v7.5.0_1eaf178240fa.7z",
+        "size":"36339006474",
+        "md5":"bbd13492dd88b75bd151a0bda0109a2b",
         "entry":"BH3.exe",
         "voice_packs":[],
-        "decompressed_path":"https://hk-bigfile-asia-mihayo.akamaized.net/ptpublic/bh3_tw/20240418174149_B3GXnykRvQHhY6dK/extract",
+        "decompressed_path":"https://hk-bigfile-asia-mihayo.akamaized.net/ptpublic/bh3_tw/20240530163856_YwL95CyrWCGVAcsv/extract/",
         "segments":[],
-        "package_size":"17559314957"
+        "package_size":"18164260357"
     },
     "deprecated_packages":[
         {
@@ -63,6 +49,18 @@
             "decompressed_path":"https://hk-bigfile-asia-mihayo.akamaized.net/ptpublic/bh3_tw/20240226190605_rYb5q3Nzwc9QjsLA/extract",
             "segments":[],
             "package_size":"16904153158"
+        },
+        {
+            "name":"",
+            "version":"7.4.0",
+            "path":"https://hk-bigfile-asia-mihayo.akamaized.net/ptpublic/bh3_tw/20240418174149_B3GXnykRvQHhY6dK/BH3_v7.4.0_94a9fe15271d.7z",
+            "size":"35129115674",
+            "md5":"c628beb38fcac482a0ed19efffb6032a",
+            "entry":"BH3.exe",
+            "voice_packs":[],
+            "decompressed_path":"https://hk-bigfile-asia-mihayo.akamaized.net/ptpublic/bh3_tw/20240418174149_B3GXnykRvQHhY6dK/extract",
+            "segments":[],
+            "package_size":"17559314957"
         }
     ]
 }
