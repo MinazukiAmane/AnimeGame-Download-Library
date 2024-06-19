@@ -1,25 +1,25 @@
-# Anime Game Direct Download Links
+# AnimeGame-Download-Library
 
 This repository contains direct download links for four different anime games. Each game has its own folder with a README listing the available download links.
 
 ## Game List
 
-1. **First Anime Game** 
+1. **bh3** 
    - Folder: `/First Anime Game`
    - First ultimate ACG Action title with next-gen gameplay, 2016, Android, IOS and PC.
    - [README for First Anime Game GLB](./First%20Anime%20Game/GLOBAL.md), [KR](./First%20Anime%20Game/KR.md), [SEA](./First%20Anime%20Game/SEA.md) and [TW](./First%20Anime%20Game/TW.md) contains direct download links and related information for PC.
 
-2. **Second Anime Game**
+2. **hk4e**
    - Folder: `/Second Anime Game`
    - open-world adventure anime game, 2020, Android, IOS, PC and Console.
    - [README for Second Anime Game GLB](./Second%20Anime%20Game/GLOBAL.md) and [Second Anime Game CN](./Second%20Anime%20Game/CN.md) contains direct download links and related information for PC.
 
-3. **Third Anime Game**
+3. **hkrpg**
    - Folder: `/Third Anime Game`
    - space fantasy RPG anime game, 2023, Android, IOS, PC and Console.
    - [README for Third Anime Game GLB](./Third%20Anime%20Game/GLOBAL.md) and [Third Anime Game CN](./Third%20Anime%20Game/CN.md) contains direct download links and related information for PC.
 
-4. **Fourth Anime Game**
+4. **nap**
    - Folder: `/Fourth Anime Game`
    - Rogue like anime game, 2024, Android, IOS and PC.
    - [README for Fourth Game](./Fourth%20Anime%20Game/turu.md) contains direct download links and related information for PC.
