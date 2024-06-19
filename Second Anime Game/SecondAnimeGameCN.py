@@ -7,7 +7,7 @@ if __name__ == "__main__":
     with open('CN.md','a+') as readme:
         readme.seek(0)
         sys.stdout = readme
-        stringContent=str(requests.get('https://id-public-api.serenetia.com/api/hk4e_cn').content,'utf-8')
+        stringContent=str(requests.get('https://sg-public-api.serenetia.com/api/hyp_cn?game_id=1Z8W5NHUQb').content,'utf-8')
         jsonFile=json.loads(readme.read().strip().strip('```'),object_pairs_hook=collections.OrderedDict)
         changed = False
         pre_download_game=None
