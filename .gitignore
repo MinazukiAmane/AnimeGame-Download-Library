@@ -1,7 +1,4 @@
-run_bh.py
-run_sr.py
-run_ys.py
-run_zzz.py
+*.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
