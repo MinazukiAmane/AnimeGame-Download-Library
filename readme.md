@@ -22,10 +22,14 @@ This repository contains direct download links for four different anime games. E
 4. **nap**
    - Folder: `/Fourth Anime Game`
    - Rogue like anime game, 2024, Android, IOS and PC.
-   - [README for Fourth Game](./Fourth%20Anime%20Game/turu.md) contains direct download links and related information for PC.
+   - [README for Fourth Game GLB](./Fourth%20Anime%20Game/GLOBAL.md) and [Fourth Anime Game CN](./Fourth%20Anime%20Game/CN.md) contains direct download links and related information for PC.
 
 ## Update Note
 
 If this repository hasn't been updated in one month, it's likely that the owner forgot to push updates. You can check the latest status by running each corresponding python script like [Second Anime Game CN](./Second%20Anime%20Game/SecondAnimeGameCN.py). Replace the front part of the URL in each Python file with "sg" or "id" if one of them cannot be accessed.
 
 Please ensure compliance with copyrights and regulations while using the games available in this repository.
+
+## TODO
+- [ ] Reorganize all existing folders
+- [ ] create md according to the version in each game
