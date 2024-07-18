@@ -10,9 +10,9 @@ This repository contains direct download links for four different anime games. E
    - [README for First Anime Game GLB](./First%20Anime%20Game/GLOBAL.md), [KR](./First%20Anime%20Game/KR.md), [SEA](./First%20Anime%20Game/SEA.md) and [TW](./First%20Anime%20Game/TW.md) contains direct download links and related information for PC.
 
 2. **hk4e**
-   - Folder: `/Second Anime Game`
+   - Folder: `/hk4e`
    - open-world adventure anime game, 2020, Android, IOS, PC and Console.
-   - [README for Second Anime Game GLB](./Second%20Anime%20Game/GLOBAL.md) and [Second Anime Game CN](./Second%20Anime%20Game/CN.md) contains direct download links and related information for PC.
+   - [README for Second Anime Game GLB](./hk4e/PROD/OS/GLOBAL.md/) and [Second Anime Game CN](./hk4e/PROD/CN/CN.md) contains direct download links and related information for PC.
 
 3. **hkrpg**
    - Folder: `/Third Anime Game`
@@ -20,9 +20,9 @@ This repository contains direct download links for four different anime games. E
    - [README for Third Anime Game GLB](./Third%20Anime%20Game/GLOBAL.md) and [Third Anime Game CN](./Third%20Anime%20Game/CN.md) contains direct download links and related information for PC.
 
 4. **nap**
-   - Folder: `/Fourth Anime Game`
+   - Folder: `/nap`
    - Rogue like anime game, 2024, Android, IOS and PC.
-   - [README for Fourth Game GLB](./Fourth%20Anime%20Game/GLOBAL.md) and [Fourth Anime Game CN](./Fourth%20Anime%20Game/CN.md) contains direct download links and related information for PC.
+   - [nap PROD OS](./nap/PROD/OS/) and [nap PROD CN](./nap/PROD/CN/) contains direct download links and related information for PC.
 
 ## Update Note
 
