@@ -12,7 +12,7 @@ This repository contains direct download links for four different anime games. E
 2. **hk4e**
    - Folder: `/hk4e`
    - open-world adventure anime game, 2020, Android, IOS, PC and Console.
-   - [README for Second Anime Game GLB](./hk4e/PROD/OS/GLOBAL.md/) and [Second Anime Game CN](./hk4e/PROD/CN/CN.md) contains direct download links and related information for PC.
+   - [README for Second Anime Game GLB](./hk4e/PROD/OS/ALL.md/) and [Second Anime Game CN](./hk4e/PROD/CN/ALL.md) contains direct download links and related information for PC.
 
 3. **hkrpg**
    - Folder: `/Third Anime Game`
