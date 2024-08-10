@@ -17,12 +17,12 @@ This repository contains direct download links for four different anime games. E
 3. **hkrpg**
    - Folder: `/Third Anime Game`
    - space fantasy RPG anime game, 2023, Android, IOS, PC and Console.
-   - [README for Third Anime Game GLB](./Third%20Anime%20Game/GLOBAL.md) and [Third Anime Game CN](./Third%20Anime%20Game/CN.md) contains direct download links and related information for PC.
+   - [README for Third Anime Game GLB](./hkrpg/PROD/OS/ALL.md) and [Third Anime Game CN](./hkrpg/PROD/CN/ALL.md) contains direct download links and related information for PC.
 
 4. **nap**
    - Folder: `/nap`
    - Rogue like anime game, 2024, Android, IOS and PC.
-   - [nap PROD OS](./nap/PROD/OS/) and [nap PROD CN](./nap/PROD/CN/) contains direct download links and related information for PC.
+   - [nap PROD OS](./nap/PROD/OS/ALL.md) and [nap PROD CN](./nap/PROD/CN/ALL.md) contains direct download links and related information for PC.
 
 ## Update Note
 
