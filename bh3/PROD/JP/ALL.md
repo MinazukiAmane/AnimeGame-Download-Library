@@ -1,0 +1,28 @@
+```
+{
+    "game":{
+        "id":"g0mMIvshDb",
+        "biz":"bh3_global"
+    },
+    "main":{
+        "major":{
+            "version":"8.0.0",
+            "game_pkgs":[
+                {
+                    "url":"https://autopatchjp.honkaiimpact3.com/ptpublic/bh3_jp/20241231172848_Ndq4nOMwrmrJGW3K/BH3_v8.0.0_647b2f09ce4e.7z",
+                    "md5":"3fb2751a4ea9c140588086fe72b7b37e",
+                    "size":"21235302034",
+                    "decompressed_size":"42481089828"
+                }
+            ],
+            "audio_pkgs":[],
+            "res_list_url":"https://autopatchjp.honkaiimpact3.com/ptpublic/bh3_jp/20241231172848_Ndq4nOMwrmrJGW3K/extract"
+        },
+        "patches":[]
+    },
+    "pre_download":{
+        "major":null,
+        "patches":[]
+    }
+}
+```

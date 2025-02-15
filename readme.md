@@ -5,9 +5,9 @@ This repository contains direct download links for four different anime games. E
 ## Game List
 
 1. **bh3** 
-   - Folder: `/First Anime Game`
+   - Folder: `/bh3`
    - First ultimate ACG Action title with next-gen gameplay, 2016, Android, IOS and PC.
-   - [README for First Anime Game GLB](./First%20Anime%20Game/GLOBAL.md), [KR](./First%20Anime%20Game/KR.md), [SEA](./First%20Anime%20Game/SEA.md) and [TW](./First%20Anime%20Game/TW.md) contains direct download links and related information for PC.
+   - [README for First Anime Game GLB](./bh3/PROD/GLOBAL/ALL.md), [KR](./bh3/PROD/KR/ALL.md), [SEA](./bh3/PROD/SEA/ALL.md), [TW](./bh3/PROD/TW/ALL.md), [JP](./bh3/PROD/JP/ALL.md) and [CN](./bh3/PROD/CN/ALL.md) contains direct download links and related information for PC.
 
 2. **hk4e**
    - Folder: `/hk4e`
@@ -15,7 +15,7 @@ This repository contains direct download links for four different anime games. E
    - [README for Second Anime Game GLB](./hk4e/PROD/OS/ALL.md/) and [Second Anime Game CN](./hk4e/PROD/CN/ALL.md) contains direct download links and related information for PC.
 
 3. **hkrpg**
-   - Folder: `/Third Anime Game`
+   - Folder: `/hkrpg`
    - space fantasy RPG anime game, 2023, Android, IOS, PC and Console.
    - [README for Third Anime Game GLB](./hkrpg/PROD/OS/ALL.md) and [Third Anime Game CN](./hkrpg/PROD/CN/ALL.md) contains direct download links and related information for PC.
 
