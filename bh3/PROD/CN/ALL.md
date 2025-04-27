@@ -6,17 +6,17 @@
     },
     "main":{
         "major":{
-            "version":"8.1.0",
+            "version":"8.2.0",
             "game_pkgs":[
                 {
-                    "url":"https://autopatchcn.bh3.com/ptpublic/rel/20250120104717_JKPilwZ9G9BSw6JF/PC/BH3_v8.1.0_2b0009e73965.7z",
-                    "md5":"d2eb8d6db52f542170edacf00f97476f",
-                    "size":"21846386552",
-                    "decompressed_size":"43703258864"
+                    "url":"https://autopatchcn.bh3.com/ptpublic/rel/20250321105946_GHQTTjbASRjRe2s6/PC/BH3_v8.2.0_070c445c9ac0.7z",
+                    "md5":"9f16eb08a73c55f258b9844ed2095435",
+                    "size":"21834314960",
+                    "decompressed_size":"43679115680"
                 }
             ],
             "audio_pkgs":[],
-            "res_list_url":"https://autopatchcn.bh3.com/ptpublic/rel/20250120104717_JKPilwZ9G9BSw6JF/PC/extract"
+            "res_list_url":"https://autopatchcn.bh3.com/ptpublic/rel/20250321105946_GHQTTjbASRjRe2s6/PC/extract"
         },
         "patches":[]
     },

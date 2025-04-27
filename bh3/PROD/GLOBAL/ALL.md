@@ -6,17 +6,17 @@
     },
     "main":{
         "major":{
-            "version":"8.1.0",
+            "version":"8.2.0",
             "game_pkgs":[
                 {
-                    "url":"https://autopatchglb.honkaiimpact3.com/ptpublic/bh3_glb/20250212161705_FIhPvnuTkcsYmrkg/BH3_v8.1.0_d950a68ed449.7z",
-                    "md5":"68f1d623282d04e9e6c7fded8f1e36de",
-                    "size":"22491169979",
-                    "decompressed_size":"44992825718"
+                    "url":"https://autopatchglb.honkaiimpact3.com/ptpublic/bh3_glb/20250414111845_SWQxoBUDzQRBU3ef/BH3_v8.2.0_c3167dbbfc15.7z",
+                    "md5":"9550565080f1d173dca6bf77d403569d",
+                    "size":"22533366981",
+                    "decompressed_size":"45077219722"
                 }
             ],
             "audio_pkgs":[],
-            "res_list_url":"https://autopatchglb.honkaiimpact3.com/ptpublic/bh3_glb/20250212161705_FIhPvnuTkcsYmrkg/extract"
+            "res_list_url":"https://autopatchglb.honkaiimpact3.com/ptpublic/bh3_glb/20250414111845_SWQxoBUDzQRBU3ef/extract"
         },
         "patches":[]
     },
